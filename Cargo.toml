@@ -1,5 +1,5 @@
 [package]
-name = "mnist"
+name = "mnist_handwritten_digits"
 version = "0.1.0"
 authors = ["Michael Neumann <mneumann@ntecs.de>"]
 
